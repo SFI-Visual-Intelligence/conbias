@@ -1,0 +1,29 @@
+cff-version: '1.2.0'
+title: "Visual Data Diagnosis and Debiasing with Concept Graphs"
+authors:
+  - family-names: Chakraborty
+    given-names: Rwiddhi
+  - family-names: Wang
+    given-names: Yinong Oliver
+  - family-names: Gao
+    given-names: Jialu
+  - family-names: Zheng
+    given-names: Runkai
+  - family-names: Zhang
+    given-names: Cheng
+  - family-names: De la Torre
+    given-names: Fernando
+version: "2024"
+date-released: 2024-09-01
+type: article
+url: "https://nva.sikt.no/registration/0198cc7e46b6-2c759df0-ed8f-42df-b8cb-2c9e5eb76a60"
+abstract: "CONBIAS is a framework for diagnosing and mitigating concept co-occurrence biases in visual datasets by representing datasets as knowledge graphs of concepts and using clique-based balancing for debiasing."
+keywords:
+  - visual data diagnosis
+  - debiasing
+  - concept graphs
+  - concept co-occurrence
+  - machine learning
+  - bias mitigation
+citation:
+  doi: "10.48550/arXiv.2409.18055"
