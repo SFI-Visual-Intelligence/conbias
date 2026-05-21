@@ -1,3 +1,5 @@
+Paper: Visual Data Diagnosis and Debiasing with Concept Graphs ([Link](https://api.nva.unit.no/publication/0198cc7e46b6-2c759df0-ed8f-42df-b8cb-2c9e5eb76a60))
+
 # ConBias
 This repository contains code for the paper titled "Visual Data Diagnosis and Debiasing with Concept Graphs", to appear in _Advances in Neural Information Processing Systems (NeurIPS), 2024._
 
