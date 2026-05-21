@@ -1,5 +1,5 @@
 cff-version: '1.2.0'
-message: "If you use this work, please cite it as below."
+message: "If you use this work, please cite it using the metadata below."
 title: "Visual Data Diagnosis and Debiasing with Concept Graphs"
 authors:
   - family-names: Chakraborty
@@ -15,7 +15,7 @@ authors:
   - family-names: De la Torre
     given-names: Fernando
 version: "2024"
-date-released: 2024-09-01
+date-released: "2024-09-01"
 type: article
 doi: "10.48550/arXiv.2409.18055"
 url: "https://doi.org/10.48550/arXiv.2409.18055"
